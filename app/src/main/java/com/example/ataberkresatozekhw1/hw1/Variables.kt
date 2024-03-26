@@ -1,4 +1,4 @@
-package com.example.ataberkresatozekhw1
+package com.example.ataberkresatozekhw1.hw1
 
 fun main() {
     val ilce = "Kadikoy"
